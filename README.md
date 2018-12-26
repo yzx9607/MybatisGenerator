@@ -20,5 +20,5 @@ SpringBoot集成mybatis generator生成实体类以及mapper映射文件和数�
 
 #### 参与贡献
 
-1. 亚信-杨振欣
+1. Java小白-杨
 
